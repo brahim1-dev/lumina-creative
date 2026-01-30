@@ -42,7 +42,8 @@ Below is a preview of the homepage. Save the provided screenshot into the `image
 
 ![Homepage preview](images/demo-screenshot.png)
 
-## Contributing
+## Contributing<img width="907" height="673" alt="Screenshot 2026-01-30 180225" src="https://github.com/user-attachments/assets/bb3ad927-7c0a-4c3d-81a8-8ec154dd20a9" />
+
 
 This project is intended as a simple starter template. Feel free to open issues or submit pull requests with improvements or bug fixes.
 ![Uploading Screenshot 2026-01-30 180225.png…]()
