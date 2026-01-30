@@ -45,6 +45,7 @@ Below is a preview of the homepage. Save the provided screenshot into the `image
 ## Contributing
 
 This project is intended as a simple starter template. Feel free to open issues or submit pull requests with improvements or bug fixes.
+![Uploading Screenshot 2026-01-30 180225.png…]()
 
 ## License
 
